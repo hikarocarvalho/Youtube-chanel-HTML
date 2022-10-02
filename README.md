@@ -1,7 +1,6 @@
 # YouTube HTML Course
 
-<details>
-<sumary> README EM PORTUGUÊS <Sumary>
+<details><sumary> README EM PORTUGUÊS<Sumary>
 
 ##### Neste Repositório estarão adicionados todos exemplos e conteúdos apresentados, em meu curso sobre html localizado em meu canal no YouTube.
 
@@ -37,8 +36,7 @@
 
 </details>
 
-<details>
-<sumary> ENGLISH README <Sumary>
+<details> <sumary> ENGLISH README <Sumary>
 
 ##### This repository is going to be used to add all the examples and assets presented in my HTML course on YouTube.
 
